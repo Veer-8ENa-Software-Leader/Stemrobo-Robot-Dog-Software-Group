@@ -1,0 +1,8 @@
+# Stemrobo-Robot-Dog-Software-Group
+echo "# Stemrobo-Robot-Dog-Software-Group" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Veer-8ENa-Software-Leader/Stemrobo-Robot-Dog-Software-Group.git
+git push -u origin main
